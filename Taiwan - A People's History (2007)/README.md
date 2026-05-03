@@ -4,4 +4,4 @@
 * **TMDB URL:** https://www.themoviedb.org/tv/117596
 * **IMDB URL:** https://www.imdb.com/title/tt11262290
 * **Assets:**
-  * **Front Cover:** [`Taiwan - A People's History (Cover - 1 - Front).jpg`](Taiwan - A People's History (Cover - 1 - Front).jpg)
+  * **Front Cover:** [`Taiwan - A People's History (Cover - 1 - Front).jpg`](Taiwan%20-%20A%20People's%20History%20(Cover%20-%201%20-%20Front).jpg)
