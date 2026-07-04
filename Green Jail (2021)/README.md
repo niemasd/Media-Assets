@@ -6,4 +6,5 @@
 * **TMDB URL:** https://www.themoviedb.org/movie/878010
 * **TVDB URL:** https://thetvdb.com/movies/lu-se-lao-long
 * **Assets:**
+  * **Subtitles (English):** [`Green Jail (2021).en.srt`](Green%20Jail%20(2021).en.srt)
   * **Subtitles (Japanese):** [`Green Jail (2021).ja.srt`](Green%20Jail%20(2021).ja.srt)
