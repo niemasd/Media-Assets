@@ -157,7 +157,7 @@ You idiot!
 
 39
 00:05:37,786 --> 00:05:39,572
-Why didn't you tell it sooner?
+Why didn't you tell me sooner?
 
 40
 00:05:39,907 --> 00:05:40,773
@@ -370,7 +370,7 @@ And you won multiple competitions yourself
 
 92
 00:11:02,625 --> 00:11:04,831
-Daiya, raise your toes higher
+- Daiya, point your toes more!
 - Yes
 
 93
@@ -379,7 +379,7 @@ Your toes are too low
 
 94
 00:11:10,404 --> 00:11:13,406
-You won't win the competition like that
+- You won't win the competition like that
 - Yes
 
 95
@@ -617,7 +617,7 @@ The economy is in a slump...
 
 153
 00:15:43,443 --> 00:15:45,411
-and there's the aging population
+and there's the declining birthrate and aging population
 
 154
 00:16:14,441 --> 00:16:15,641
@@ -625,7 +625,7 @@ This is the contract
 
 155
 00:16:16,143 --> 00:16:18,377
-[Target Heizao Honjo,
+[Target Heizo Honjo,
 Do not betray your partners]
 
 156
@@ -676,7 +676,7 @@ Fine
 
 167
 00:17:11,940 --> 00:17:17,136
-Our target is Heizao Honjo, boss of the Honjo Association
+Our target is Heizo Honjo, boss of the Honjo Association
 
 168
 00:17:19,772 --> 00:17:22,942
@@ -1505,7 +1505,7 @@ Don't say a word
 
 373
 00:34:52,993 --> 00:34:57,062
-An enforcer yakuza fresh out of prison like me...
+A yakuza enforcer fresh out of prison like me...
 
 374
 00:34:57,498 --> 00:34:59,398
@@ -1693,7 +1693,7 @@ Where are we?
 
 420
 00:39:47,821 --> 00:39:49,956
-Today is our warrior training journey
+Today, we're going on a warrior-training trip!
 
 421
 00:39:50,357 --> 00:39:52,024
@@ -1814,7 +1814,7 @@ Three, two, one, go!
 
 450
 00:41:49,409 --> 00:41:53,479
-Let's get go, Roora!
+Let's go, Roora!
 
 451
 00:41:53,614 --> 00:41:57,650
@@ -1912,7 +1912,7 @@ Lastly, we'll leave it to you
 
 474
 00:44:02,309 --> 00:44:04,210
-Dance your ballet heart out
+Give it your all with the ballet!
 
 475
 00:44:24,064 --> 00:44:26,065
@@ -2108,7 +2108,7 @@ I look forward to our next meeting
 
 523
 00:51:05,065 --> 00:51:08,201
-(Dai, sorry about earlier I went home first)
+(Dai, sorry I went home ahead of you.)
 
 524
 00:51:14,074 --> 00:51:15,074
@@ -2655,7 +2655,7 @@ A cover of TOM CAT...
 
 658
 01:00:42,976 --> 01:00:47,280
-♪ Play me more cool numbers ♪
+♪ Play some more cool tunes! ♪
 
 659
 01:00:47,281 --> 01:00:50,316
@@ -2735,7 +2735,7 @@ A cover of TOM CAT...
 
 678
 01:01:56,116 --> 01:02:00,419
-♪ Keep playing flashy numbers forever ♪
+♪ Keep playing flashy tunes forever! ♪
 
 679
 01:02:00,420 --> 01:02:03,422
@@ -2925,7 +2925,7 @@ Onstage!
 
 725
 01:07:31,618 --> 01:07:35,688
-Next is the naked confession pose to your crush!
+Next up: the "naked confession" pose for your crush!
 
 726
 01:07:35,689 --> 01:07:36,589
@@ -3459,7 +3459,7 @@ I see
 
 856
 01:18:46,126 --> 01:18:49,629
-Old man Honjo is finished today
+We're taking out old man Honjo today.
 
 857
 01:18:55,469 --> 01:18:59,272
@@ -4036,8 +4036,8 @@ I'm so nervous
 
 998
 01:31:33,460 --> 01:31:37,964
-The winner will be crowned from
-the remaining three teams
+The winner will be chosen from
+the three remaining teams
 
 999
 01:31:41,401 --> 01:31:43,903
@@ -4483,11 +4483,11 @@ Don't shoot
 
 1108
 01:44:52,403 --> 01:44:53,711
-Would you trade
+Would you pay
 
 1109
 01:44:54,728 --> 01:44:57,029
-the price of a building to buy back your life?
+the price of a building to save your life?
 
 1110
 01:45:00,123 --> 01:45:00,956
@@ -4511,7 +4511,7 @@ So The Specials...
 
 1115
 01:45:24,858 --> 01:45:26,859
-are dissolving?
+are breaking up?
 
 1116
 01:45:27,394 --> 01:45:28,494
