@@ -6,3 +6,4 @@
 * **TVDB URL:** https://thetvdb.com/movies/luo-shan-feng
 * **Assets:**
   * **Subtitles (Chinese, Traditional):** [`Good Neighbors (1962).zh-Hant.srt`](Good%20Neighbors%20(1962).zh-Hant.srt)
+  * **Subtitles (English):** [`Good Neighbors (1962).en.srt`](Good%20Neighbors%20(1962).en.srt)
