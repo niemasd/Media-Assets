@@ -1,0 +1,8 @@
+* **Title:** Good Neighbors
+* **Original Title:** 两相好 (Liang xiang hao)
+* **Release Year:** 1962
+* **IMDB URL:** https://www.imdb.com/title/tt9613380
+* **TMDB URL:** https://www.themoviedb.org/movie/654533
+* **TVDB URL:** https://thetvdb.com/movies/luo-shan-feng
+* **Assets:**
+  * **Subtitles (Chinese, Traditional):** TODO
