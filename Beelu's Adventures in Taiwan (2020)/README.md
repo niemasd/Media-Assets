@@ -4,4 +4,4 @@
 * **TMDB URL:** https://www.themoviedb.org/tv/339141
 * **Assets:**
   * **Subtitles (English):** `*.en.srt`
-  * **Subtitles (Chinese - Traditional):** `*.zh-Hant.srt`
+  * **Subtitles (Multiple):** `*.mks`
